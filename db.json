@@ -1,7 +1,16 @@
 {
   "students":[
-    {"name":"Trung", "age": 18},
-    {"name":"Hoang", "age": 17},
-    {"name":"Tung", "age": 18}
+    {
+      "name":"Trung",
+      "age": 18
+    },
+    {
+      "name":"Hoang",
+      "age": 17
+    },
+    {
+      "name":"Tung",
+      "age": 18
+    }
   ]
 }
